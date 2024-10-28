@@ -1,0 +1,16 @@
+[
+    {
+        "route_number": "101",
+        "start_location": "New Delhi",
+        "end_location": "Dwarka Mor",
+        "stops": ["Stop1", "Stop2", "Stop3"],
+        "timings": ["6:00 AM", "8:00 AM", "10:00 AM"]
+    },
+    {
+        "route_number": "102",
+        "start_location": "New Delhi",
+        "end_location": "Airport T-3",
+        "stops": ["Stop4", "Stop5", "Stop6"],
+        "timings": ["7:00 AM", "9:00 AM", "11:00 AM"]
+    }
+]
